@@ -1,0 +1,38 @@
+{
+  "titulo": "vercel-assistente-juridico (1)",
+  "arquivo": "index.html",
+  "itens": [
+    {
+      "path": "client/index.html",
+      "nome": "HTML Playground - Editor de Codigo ao Vivo",
+      "desc": "",
+      "on": true,
+      "icone": "client/icons/icon.svg"
+    },
+    {
+      "path": "client/public/auditoria.html",
+      "nome": "Auditoria Master - Dr. MAIKON DA ROCHA CALDEIRA",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "client/public/comparador.html",
+      "nome": "Comparador Jurídico — TJMG + BCB",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    },
+    {
+      "path": "public/auditoria.html",
+      "nome": "Auditoria Financeira - Assistente Jurídico",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    }
+  ],
+  "sub": "",
+  "logo": "",
+  "tema": "escuro",
+  "links": []
+}
